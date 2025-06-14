@@ -1,0 +1,45 @@
+[05:56:11] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[05:56:11] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[05:56:11] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:56:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[05:56:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:56:22] [ServerMain/INFO]: Loaded 1370 recipes
+[05:56:22] [ServerMain/INFO]: Loaded 1481 advancements
+[05:56:22] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[05:56:23] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 342.8ms
+[05:56:23] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[05:56:23] [Server thread/INFO]: Loading properties
+[05:56:23] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[05:56:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[05:56:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:56:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:56:25] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[05:56:25] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[05:56:25] [Server thread/INFO]: Default game type: SURVIVAL
+[05:56:25] [Server thread/INFO]: Generating keypair
+[05:56:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:56:25] [Server thread/INFO]: Using epoll channel type
+[05:56:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:56:25] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:56:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:56:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:56:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:56:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:56:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:56:25] [Server thread/INFO]: Preparing level "world"
+[05:56:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:56:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:56:27] [Server thread/INFO]: Preparing spawn area: 2%
+[05:56:28] [Server thread/INFO]: Preparing spawn area: 8%
+[05:56:28] [Server thread/INFO]: Preparing spawn area: 18%
+[05:56:28] [Server thread/INFO]: Time elapsed: 1797 ms
+[05:56:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:56:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:56:29] [Server thread/INFO]: Time elapsed: 475 ms
+[05:56:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:56:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:56:29] [Server thread/INFO]: Time elapsed: 226 ms
+[05:56:29] [Server thread/INFO]: [spark] Starting background profiler...
+[05:56:30] [Server thread/INFO]: Done preparing level "world" (4.308s)
+[05:56:30] [Server thread/INFO]: Running delayed init tasks
+[05:56:30] [Server thread/INFO]: Done (19.669s)! For help, type "help"
